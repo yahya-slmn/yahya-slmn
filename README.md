@@ -1,8 +1,8 @@
 # Hi, I'm Yahya Sleiman 👋
 
-## Data Analyst | Power BI Developer
+## Data Analyst | Power BI Developer | Python Analytics Enthusiast
 
-I build interactive analytics solutions focused on business intelligence, dashboard storytelling, SQL analysis, and stakeholder-focused reporting.
+Building analytics dashboards, data applications, and business intelligence solutions using Power BI, Python, SQL, FastAPI, Streamlit, DAX, and Power Query.
 
 ---
 
